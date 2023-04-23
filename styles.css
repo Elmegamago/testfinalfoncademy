@@ -1,0 +1,29 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: Gainsboro;
+}
+
+
+#imagenhero{
+    height: 41rem;
+    object-fit: cover;
+}
+
+.Taller{
+    height: 60%;
+}
+
+.card{
+    background-color: Gainsboro;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+    
+}
